@@ -12,11 +12,11 @@ import jakarta.ws.rs.core.Application;
 
 @OpenAPIDefinition(
         tags = {
-                @Tag(name = "teste de swagger", description = "etste de descriptokn")
+                @Tag(name = "API para Receitas", description = "receitas caseiras e outras")
         },
         info = @Info(
                 title = "Servico Sabor D'Kaza  - API",
-                description = "e-Service - lista de receitas",
+                description = "lista de receitas",
                 version = "0.0.1",
                 contact = @Contact(
                         name = " Support sabordkaza",
