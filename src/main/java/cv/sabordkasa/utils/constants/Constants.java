@@ -1,4 +1,4 @@
-package cv.sabordkasa.utils;
+package cv.sabordkasa.utils.constants;
 
 public class Constants {
     public static final String SWAGGER_TAG_NAME = "";
